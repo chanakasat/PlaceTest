@@ -9,4 +9,4 @@ You should also attribute the author in your work.
 Name: Chanaka Alahakoon
 email: chanakasat@gmail.com
 
-Note: place_pg.jar is obfuscated raveling only the important parts.
+Note: place_pg.jar is obfuscated reviling only the important parts.
