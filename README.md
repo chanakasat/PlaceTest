@@ -11,7 +11,7 @@ The core algorithm is the base for following Android apps
 This sample project is created with eclipse.
 Look inside /PlaceTest/src/test/Test.java for an example.
 
-**If you are interested in using the library, please ask for permision from the author.
+**If you are interested in using this library, please ask for permision from the author.
 You should also attribute the author in your work.**
 
 * **Author: Chanaka Alahakoon**
