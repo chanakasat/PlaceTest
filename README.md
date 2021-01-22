@@ -1,5 +1,8 @@
 # PlaceTest
 
+Targets releasing a .jar library for outside world to help carrying out coordinate transformation work in Sri Lankan domain.
+Algorithm focuses on **SLD99** datum and utilizes 7 parameter Helmert transformation and transverse Mercator projection to carry out forward and backward transformations. 
+
 The project is created with eclipse.
 Look inside PlaceTest\src\test\Test.java for an example usage.
 
@@ -10,7 +13,7 @@ Name: Chanaka Alahakoon
 
 email: chanakasat@gmail.com
 
-Note: /lib/place_pg.jar which holds the core transformation logic is obfuscated reviling only the important parts.
+Note: /lib/place_pg.jar which holds the core transformation logic, is obfuscated reviling only the important parts.
 
 Example usage:
 
