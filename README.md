@@ -4,7 +4,7 @@ Targets releasing a .jar library for outside world to help carrying out coordina
 Algorithm focuses on **SLD99** datum and utilizes 7 parameter Helmert transformation and transverse Mercator projection to carry out forward and backward transformations. 
 
 The project is created with eclipse.
-Look inside PlaceTest\src\test\Test.java for an example usage.
+Look inside /PlaceTest/src/test/Test.java for an example usage.
 
 **If you are interested in using the library, please ask for permision from the author.
 You should also attribute the author in your work.**
