@@ -1,17 +1,21 @@
 # PlaceTest
 
-Targets releasing a .jar (**/lib/place_pg.jar**) library for outside world to help carrying out coordinate transformation work in Sri Lankan domain.
+Targets releasing a .jar (**/lib/place_pg.jar**) library for outside world to help carrying out coordinate transformation work targeting **Sri Lankan**, domain.
 Algorithm focuses on **SLD99** datum and utilizes 7 parameter Helmert transformation and transverse Mercator projection to carry out forward and backward transformations. 
 
-The project is created with eclipse.
-Look inside /PlaceTest/src/test/Test.java for an example usage.
+The core algorithm is the base for following Android apps
+
+* <https://play.google.com/store/apps/details?id=com.latitude.place>
+* <https://play.google.com/store/apps/details?id=msc.research.ctdroid>
+
+This sample project is created with eclipse.
+Look inside /PlaceTest/src/test/Test.java for an example.
 
 **If you are interested in using the library, please ask for permision from the author.
 You should also attribute the author in your work.**
 
-Name: Chanaka Alahakoon
-
-email: chanakasat@gmail.com
+* **Author: Chanaka Alahakoon**
+* email: chanakasat@gmail.com
 
 Note: /lib/place_pg.jar which holds the core transformation logic, is obfuscated reviling only the important parts.
 
