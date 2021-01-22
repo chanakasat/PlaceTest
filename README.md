@@ -17,7 +17,7 @@ You should also attribute the author in your work.**
 * **Author: Chanaka Alahakoon**
 * email: chanakasat@gmail.com
 
-Note: /lib/place_pg.jar which holds the core transformation logic, is obfuscated reviling only the relevent parts.
+Note: /lib/place_pg.jar which holds the core transformation logic, is obfuscated revealing only the relevent parts.
 
 Example usage:
 
