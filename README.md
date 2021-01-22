@@ -1,6 +1,6 @@
 # PlaceTest
 
-Targets releasing a .jar library for outside world to help carrying out coordinate transformation work in Sri Lankan domain.
+Targets releasing a .jar (**/lib/place_pg.jar**) library for outside world to help carrying out coordinate transformation work in Sri Lankan domain.
 Algorithm focuses on **SLD99** datum and utilizes 7 parameter Helmert transformation and transverse Mercator projection to carry out forward and backward transformations. 
 
 The project is created with eclipse.
